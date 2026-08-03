@@ -1,5 +1,6 @@
 # 💫 About Me:
 SWE 3rd year student
+Intern at Portal
 
 
 ## 🌐 Socials:
