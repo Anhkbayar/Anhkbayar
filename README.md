@@ -1,6 +1,6 @@
 # 💫 About Me:
 SWE 4th year student  
-Intern at Portal
+Intern at [Portal.mn](https://www.portal.mn/)
 
 
 ## 🌐 Socials:
